@@ -99,7 +99,7 @@ body {
 
 .winner-container h3 {
     font-size: 15rem;
-    font-family: monospace;
+    font-family: "Roboto Mono", monospace;
     text-align: center;
     text-transform: uppercase;
     margin: 0;
